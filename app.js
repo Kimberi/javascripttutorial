@@ -42,4 +42,18 @@ switch (typeof value) {
         console.log('others')
         break;
 }
-
+//loops
+for (let i = 1; i <=10; i++){
+    console.log('programmer');  
+}
+for (let i = 1; i <=10; i++) {
+    console.log(i);
+}
+    let code =["javascript","html", "cpp"]
+    for (let i = 0; i < code.length; i++) {
+        console.log(code[i]);
+        
+}
+for (let i = 1; i <=10; i++) {
+    console.log('kim is darkskin');
+}
